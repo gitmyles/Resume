@@ -1,3 +1,5 @@
+_View the most recent copy of my resume [here] (https://gitmyles.github.io/Resume/)
+
 # Myles J. Johnson-Gray
 * mjayegray@gmail.com | 302-670-9580
 
