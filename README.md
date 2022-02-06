@@ -49,7 +49,7 @@ Familiarity with various software: Microsoft Office, Wireshark, SSH, VirtualBox,
 
 ### National Institute of Health - International Summer Research Intern
 #### (May 2012 - July 2012)
-    * Ningbo University, China Gained knowledge of various data mining techniques including clustering, classification methods, and decision trees.
+* Ningbo University, China Gained knowledge of various data mining techniques including clustering, classification methods, and decision trees.
 
 ### National Institute of Health - Summer Research Intern
 #### (May 2014 - July 2014)
