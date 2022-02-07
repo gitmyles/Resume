@@ -36,9 +36,9 @@ Familiarity with various software: Microsoft Office, Wireshark, SSH, VirtualBox,
 ## Relevant Experience
 ### Raytheon Technologies - Software Engineer II
 #### Lawrence, Massachusetts, USA (May 2018 - Present)
-* Developed, facilitated the delivery of, and performed regression/integration testing on maintenance software (Ada/C++) for military hardware.
-* Produced in-house scripting and front end tools (Python, Javascript, ASP, PHP) to improve development and testing efficiency of software teams.
-* Responsible for introducing DevSecOps and agile softwares (JIRA, Confluence, Collaborator, GitHub) and concepts to outdated product engineering groups.
+* Developed, facilitated the delivery of, and performed regression/integration testing on maintenance software (Ada/C++) for Patriot Missle System.
+* Produced in-house scripting and front end tools (Python, Javascript, ASP, PHP) to improve development and testing efficiency of engineering teams.
+* Responsible for introducing DevSecOps and agile softwares (JIRA, Confluence, Collaborator, GitHub) and concepts to outdated engineering product groups.
 * **Secret Clearance from U.S. Department of Defense**
 
 ### Delaware State University - Undergraduate Researcher
