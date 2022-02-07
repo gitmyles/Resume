@@ -44,7 +44,7 @@ Familiarity with various software: Microsoft Office, Wireshark, SSH, VirtualBox,
 ### Delaware State University - Undergraduate Researcher
 #### Dover, Delaware, USA (Feb 2012 – May 2015)
 * Assisted in the software development of NeRvolver, a computational intelligence-based system (using evolutionary algorithms and fuzzy logic) for automated construction, analysis, and tuning of neuronal models. 
-* Implemented the NSGA-2 and END_VEGA algorithms in C++ and performed an empirical algorithm analysis on both algorithms applied to neuronal modeling. 
+* Implemented the NSGA-2 and END_VEGA algorithms in C++, and performed an empirical algorithm analysis on both algorithms applied to neuronal modeling. 
 * Implemented statistical functions for analysis of neuronal data.
 * Contributed in a lab research team: committed code to a code base, participated in lab meetings, and orally presented our work at several conferences.
 
