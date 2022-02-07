@@ -35,14 +35,14 @@ Familiarity with various software: Microsoft Office, Wireshark, SSH, VirtualBox,
 
 ## Relevant Experience
 ### Raytheon Technologies - Software Engineer II
-#### (May 2018 - Present)
+#### Lawrence, MA (May 2018 - Present)
 * Developed, facilitated the delivery of, and performed regression/integration testing on maintenance software for military hardware.
 * Produced in-house scripting and front end tools (Python, Javascript, ASP, PHP to improve development and testing efficiency of software teams.
 * Responsible for introducing DevSecOps and agile softwares (JIRA, Confluence, Collaborator, GitHub) and concepts to outdated product engineering groups.
 * **Secret Clearance from U.S. Department of Defense**
 
 ### Delaware State University - Undergraduate Researcher
-#### (Feb 2012 – May 2015)
+#### Dover, DE (Feb 2012 – May 2015)
 * Assisted in the software development of NeRvolver, a computational intelligence-based system (using evolutionary algorithms and fuzzy logic) for automated construction, analysis, and tuning of neuronal models. 
 * Implemented the NSGA-2 and END_VEGA algorithms in C++ and performed an empirical algorithm analysis on both algorithms applied to neuronal modeling. 
 * Implemented statistical functions for analysis of neuronal data.
