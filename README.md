@@ -13,7 +13,7 @@ mjayegray@gmail.com | 302-670-9580
 
 
 ## Objective
-Experienced programmer with knowledge of scripting and object-oriented programming, agile and scrum practices, version control, build management, and unit testing. Familiarity with Windows, Unix, and Linux operating systems. Offering strong teamwork and communication skills, as well as a determined attitude, translating to high levels of productivity. Demonstrated ability to utilize strong critical thinking skills, along with broad savvy of technology, computers, and mathematics.
+Experienced software professional with knowledge of scripting and object-oriented programming, agile and scrum practices, version control, database management, and software testing. Familiarity with Windows, Unix, and Linux operating systems. Offering strong teamwork and communication skills, as well as a determined attitude, translating to high levels of productivity. Demonstrated ability to utilize strong critical thinking skills, along with broad savvy of technology, computers, and mathematics.
 
 _Specific interests include subjects in the following areas: artificial intelligence, data mining, and user interface design._
 
@@ -36,8 +36,8 @@ Familiarity with various software: Microsoft Office, Wireshark, SSH, VirtualBox,
 ## Relevant Experience
 ### Raytheon Technologies - Software Engineer II
 #### (May 2018 - Present)
-* Developed, facilitated the delivery of, and performed integration testing on maintenance software for military hardware.
-* Produced in-house scripting and front end tools to improve development and testing efficiency of software teams.
+* Developed, facilitated the delivery of, and performed regression/integration testing on maintenance software for military hardware.
+* Produced in-house scripting and front end tools (Python, Javascript, ASP, PHP to improve development and testing efficiency of software teams.
 * Responsible for introducing DevSecOps and agile softwares (JIRA, Confluence, Collaborator, GitHub) and concepts to outdated product engineering groups.
 * **Secret Clearance from U.S. Department of Defense**
 
