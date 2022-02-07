@@ -56,8 +56,8 @@ Familiarity with various software: Microsoft Office, Wireshark, SSH, VirtualBox,
 
 ### Summer Research Intern
 #### Clemson University, South Carolina, USA (May 2014 - July 2014)
-* Developed a graph ontology based system for keyword extraction of biomedical publications in Java. Prepared an oral and poster presentation for a various local symposiums.
-* Participated in a number of courses covering SSH, operating systems, and object-oriented programming.
+* Developed a graph ontology based system for keyword extraction of biomedical publications in Java. Prepared an oral and poster presentation for a local symposium.
+* Participated in a number of courses covering SSH, operating systems, and object-oriented programming fundamentals.
 
 
 
