@@ -36,9 +36,9 @@ Familiarity with various software: Microsoft Office, Wireshark, SSH, VirtualBox,
 ## Relevant Experience
 ### Raytheon Technologies - Software Engineer II
 #### (May 2018 - Present)
-* Developed and facilitated the delivery of maintenance software for military hardware; performed integration testing.
-* Produced scripting and front end tools to improve development and testing efficiency of software teams.
-* Responsible for introducing DevSecOps and agile softwares (JIRA, Confluence, Collaborator, GitHub) and concepts to outdated engineering groups.
+* Developed, facilitated the delivery of, and performed integration testing on maintenance software for military hardware.
+* Produced in-house scripting and front end tools to improve development and testing efficiency of software teams.
+* Responsible for introducing DevSecOps and agile softwares (JIRA, Confluence, Collaborator, GitHub) and concepts to outdated product engineering groups.
 * **Secret Clearance from U.S. Department of Defense**
 
 ### Delaware State University - Undergraduate Researcher
