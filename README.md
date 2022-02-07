@@ -1,4 +1,4 @@
-_Click [here](https://gitmyles.github.io/Resume/) to view the most recent version of my portfolio._ <hr>
+_Click [here](https://gitmyles.github.io/Resume/) to view the most recent version of my portfolio._ <br>
 _Click [here](https://github.com/gitmyles/Resume/raw/main/Resume.pdf) to download the most recent pdf file._
 
 # Myles J. Johnson-Gray
