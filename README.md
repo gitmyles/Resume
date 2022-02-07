@@ -51,7 +51,8 @@ Familiarity with various software: Microsoft Office, Wireshark, SSH, VirtualBox,
 
 ### National Institute of Health - International Summer Research Intern
 #### Ningbo University, Ningbo, China (May 2012 - July 2012)
-*  Gained knowledge of various data mining techniques including clustering, classification methods, and decision trees.
+*  Participated in courses covering knowledge of various data mining techniques, including clustering, classification methods, and decision trees. 
+*  Developed decision trees predicting NBA player shot selection and results based on a number of in-game critieria. Prepared an oral and poster presentation of my work at a local symposium.
 
 ### Summer Research Intern
 #### Clemson University, South Carolina, USA (May 2014 - July 2014)
