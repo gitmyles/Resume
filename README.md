@@ -12,7 +12,7 @@ mjayegray@gmail.com | 302-670-9580
     * GPA: 3.5
 
 
-## Objective
+## Summary
 Experienced software professional with knowledge of scripting and object-oriented programming, agile and scrum practices, version control, database management, and software testing. Familiarity with Windows, Unix, and Linux operating systems. Offering strong teamwork and communication skills, as well as a determined attitude, translating to high levels of productivity. Demonstrated ability to utilize strong critical thinking skills, along with broad savvy of technology, computers, and mathematics.
 
 _Specific interests include subjects in the following areas: artificial intelligence, data mining, and user interface design._
