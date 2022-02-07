@@ -70,16 +70,17 @@ _Each bullet below contains a hyperlink mapping to the respective repository loc
 
 ## AUTHORED PUBLICATIONS
 * "Hybridization of multi-objective evolutionary algorithms and fuzzy control for automated construction, tuning, and analysis of neuronal models"
-[peer-reviewed abstract], Patel P., Johnson-Gray M., Forren E., Malik A., and Smolinski T.G., BMC Neuroscience 14(Suppl 1):P369, 2013.
+[peer-reviewed abstract](https://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-14-S1-P369), Patel P., Johnson-Gray M., Forren E., Malik A., and Smolinski T.G., BMC Neuroscience 14(Suppl 1):P369, 2013.
 
 * "NeRvolver: a computational intelligence-based system for automated construction, tuning, and analysis of neuronal models"
-[peer-reviewed abstract], Forren E., Johnson-Gray M., Patel P., and Smolinski T.G., BMC Neuroscience 13(Suppl 1):P36, 2012.
+[peer-reviewed abstract](https://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-13-S1-P36), Forren E., Johnson-Gray M., Patel P., and Smolinski T.G., BMC Neuroscience 13(Suppl 1):P36, 2012.
 
 
 ## SPEAKING ENGAGEMENTS
-* Computational Neuroscience (CNS) Conference (Atlanta 2012, Paris 2013) 
-* Annual Biomedical Research Conference for Minority Students (ABRCMS) (San Jose 2012, Nashville 2013, San Antonio 2014) 
-* Emerging Researchers National (ERN) Conference (Washington D.C 2014) 
+* Computational Neuroscience (CNS) Conference (Atlanta 2012, [Paris 2013](https://www.cnsorg.org/cns-2013-paris)) 
+* Annual Biomedical Research Conference for Minority Students (ABRCMS) ([San Jose 2012](https://abrcms.org/images/Past_Programs/2012_ABRCMS_Final_Program.pdf), [Nashville 2013](https://abrcms.org/images/Past_Programs/Final_Program__Exhibit_Guide-_Website_Version.pdf), [San Antonio 2014](https://abrcms.org/images/Past_Programs/2014_ABRCMS_Final_Program.pdf) 
+* Annual Biomedical Research Conference for Minority Students (ABRCMS) ([San Jose 2012](https://abrcms.org/images/Past_Programs/2012_ABRCMS_Final_Program.pdf), [Nashville 2013](https://abrcms.org/images/Past_Programs/Final_Program__Exhibit_Guide-_Website_Version.pdf), [San Antonio 2014]()) 
+* Emerging Researchers National (ERN) Conference ([Washington D.C 2014](https://new.emerging-researchers.org/wp-content/uploads/2014/02/2014ERNUndergradPosterPresentationSchedule.pdf)) 
 
 
 
