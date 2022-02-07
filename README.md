@@ -47,12 +47,12 @@ Familiarity with various software: Microsoft Office, Wireshark, SSH, VirtualBox,
 * Implemented the NSGA-2 and END_VEGA algorithms in C++ and performed an empirical algorithm analysis on both algorithms applied to neuronal modeling. 
 
 ### National Institute of Health - International Summer Research Intern
-#### (May 2012 - July 2012)
-* Ningbo University, China Gained knowledge of various data mining techniques including clustering, classification methods, and decision trees.
+#### Ningbo University, China (May 2012 - July 2012)
+*  Gained knowledge of various data mining techniques including clustering, classification methods, and decision trees.
 
-### National Institute of Health - Summer Research Intern
-#### (May 2014 - July 2014)
-* Clemson University developed a graph ontology based system for keyword extraction of biomedical publications in Java.
+### Summer Research Intern
+#### Clemson University, South Carolina, USA (May 2014 - July 2014)
+* Developed a graph ontology based system for keyword extraction of biomedical publications in Java.
 * Prepared a number of oral and poster presentations for various conferences and symposiums.
 
 
