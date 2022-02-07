@@ -35,11 +35,11 @@ Familiarity with various software: Microsoft Office, Wireshark, SSH, VirtualBox,
 
 ## Relevant Experience
 ### Raytheon Technologies - Software Engineer II
-#### (May 2018 - present)
+#### (May 2018 - Present)
 * Assisted in the software development of NeRvolver, a computational intelligence-based system for automated construction, analysis, and tuning of neuronal models.
 * Developed and performed integration testing for military maintenance software and hardware.
 * Developed scripting and front end tools to improve development and testing efficiency.
-* Responsible for introducing devsecops and agile concepts to outdated engineering groups
+* Responsible for introducing DevSecOps and agile concepts to outdated engineering groups.
 * **Secret Clearance from DoD**
 
 ### Delaware State University - Undergraduate Researcher
