@@ -26,7 +26,7 @@ Knowledge of various programming languages including: C++, Java, Python, HTML, J
 Strong skills in mathematics including: basic arithmetic, algebra, calculus, probability, statistics, trigonometry, discrete mathematics, linear algebra, and theory of computation. 
 
 ### Systems/Software:
-Familiarity with various software: Microsoft Office, Wireshark, SSH, VirtualBox, Eclipse, PyCharm, and GitHub, Rational Clearcase, JIRA Software, Confluence, Froglogic Squish, SmartBear Collaborator, OpenGL, and XAMMP.
+Familiarity with various software: Microsoft Office, Wireshark, SSH, VirtualBox, Eclipse, PyCharm, GitHub, Rational Clearcase, JIRA Software, Confluence, Froglogic Squish, SmartBear Collaborator, OpenGL, and XAMMP.
 
 
 
