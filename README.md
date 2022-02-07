@@ -40,7 +40,7 @@ Familiarity with various software: Microsoft Office, Wireshark, SSH, VirtualBox,
 * Developed, facilitated the delivery of, and performed regression/integration testing on maintenance software (Ada/C++) for Patriot Missle System.
 * Produced in-house scripting and front end tools (Python, Javascript, ASP, PHP) to improve development and testing efficiency of engineering teams.
 * Responsible for introducing DevSecOps and agile softwares (JIRA, Confluence, Collaborator, GitHub) and concepts to outdated engineering product groups.
-<p style="color:red">Secret Clearance from U.S. Department of Defense</p>
+* **Secret Clearance from U.S. Department of Defense**
 
 ### Delaware State University - Undergraduate Researcher
 #### Dover, Delaware, USA (Feb 2012 – May 2015)
