@@ -39,7 +39,6 @@ Familiarity with various software: Microsoft Office, Wireshark, SSH, VirtualBox,
 * Developed and performed integration testing for military maintenance software and hardware.
 * Produced scripting and front end tools to improve development and testing efficiency of software teams.
 * Responsible for introducing DevSecOps and agile softwares (JIRA, Confluence, Collaborator, GitHub) and concepts to outdated engineering groups.
-* - ![#f03c15](**Secret Clearance from U.S. Department of Defense**) `#f03c15`
 * **Secret Clearance from U.S. Department of Defense**
 
 ### Delaware State University - Undergraduate Researcher
