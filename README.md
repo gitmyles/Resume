@@ -20,13 +20,13 @@ _Specific interests include subjects in the following areas: artificial intellig
 
 ## Technical Skills
 ### Programming Languages
-Knowledge of various programming languages including: C++, Java, Python, HTML, Javascript, Perl, Ruby, PHP, ASP, Bash, Ada, ML, Prolog, and SQL.
+Knowledge of various programming languages including: C++, Java, Python, HTML, Javascript, ASP, Visual Basic, Perl, Ruby, PHP, Bash, Ada, ML, Prolog, and SQL.
 
 ### Mathematics
 Strong skills in mathematics including: basic arithmetic, algebra, calculus, probability, statistics, trigonometry, discrete mathematics, linear algebra, and theory of computation. 
 
 ### Systems/Software:
-Familiarity with various software: Microsoft Office, Wireshark, SSH, VirtualBox, Eclipse, PyCharm, and GitHub, JIRA, Confluence, SmartBear Collaborator, BLAST, XAMMP, managing databases using MySQL.
+Familiarity with various software: Microsoft Office, Wireshark, SSH, VirtualBox, Eclipse, PyCharm, and GitHub, Rational Clearcase, JIRA Software, Confluence, Froglogic Squish, SmartBear Collaborator, OpenGL, and XAMMP.
 
 
 
