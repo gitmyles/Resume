@@ -1,4 +1,4 @@
-_Click [here](https://github.com/gitmyles/Resume/raw/main/Resume.pdf) to download the most recent pdf file._
+_Click [here](https://github.com/gitmyles/Resume/raw/main/Resume.pdf) to download the most recent pdf file.
 _
 # Myles J. Johnson-Gray
 mjayegray@gmail.com | 302-670-9580
