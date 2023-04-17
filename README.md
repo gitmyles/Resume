@@ -1,3 +1,6 @@
+_Click [here](https://gitmyles.github.io/Resume/) to view the most recent version of my portfolio._ <br>
+_Click [here](https://github.com/gitmyles/Resume/raw/main/Resume.pdf) to download the most recent pdf file._
+
 # Myles J. Johnson-Gray
 mjayegray@gmail.com | 302-670-9580
 
@@ -11,20 +14,20 @@ mjayegray@gmail.com | 302-670-9580
 
 
 ## Summary
-Experienced engineering professional with knowledge of scripting and object-oriented programming, agile and scrum practices, version control, database management, and software testing. Familiarity with Windows, Unix, and Linux operating systems. Offering strong teamwork and communication skills, as well as a determined attitude, translating to high levels of productivity. Demonstrated ability to utilize strong critical thinking skills, along with broad savvy of technology, computers, and mathematics.
+Creative and adaptable software engineer (5+ years of experience) offering proficiency in scripting and object-oriented programming, as well as strong teamwork and communication skills. Seeking new opportunities to utilize my skills towards creating meaniningful software.
 
-_Specific interests include: artificial intelligence, data mining, and user interface design._
+_Specific interests include: artificial intelligence, user interface design, music._
 
 
 ## Technical Skills
-### Programming Languages
-C++, Java, Python, and Javascript.
+### Languages/Frameworks
+C++, Java, Python, HTML/Javascript, SQL, .NET.
 
 ### Mathematics
-calculus, probability, statistics, trigonometry, discrete mathematics, linear algebra, and theory of computation. 
+Calculus, probability, statistics, trigonometry, discrete mathematics, linear algebra, and theory of computation. 
 
 ### Systems/Software:
-Wireshark, VirtualBox, Eclipse, PyCharm, GitHub, Rational Clearcase, JIRA, Confluence, Froglogic Squish, SmartBear Collaborator, OpenGL, and XAMMP.
+Wireshark, VirtualBox, Eclipse, GitHub, Rational Clearcase, JIRA, Jenkins, Confluence, Froglogic Squish, Offfice 365/SharePoint/Power Automate, SmartBear Collaborator, OpenGL, and XAMMP.
 
 
 
@@ -32,11 +35,11 @@ Wireshark, VirtualBox, Eclipse, PyCharm, GitHub, Rational Clearcase, JIRA, Confl
 
 
 ## Relevant Experience
-### Raytheon Technologies - Software Engineer II
+### Raytheon Technologies - Software Engineer II (Patriot Tools Team, Patriot Mainteneance and Diagnostic Team)
 #### Lawrence, Massachusetts, USA (May 2018 - Present)
 * Developed, facilitated the delivery of, and performed regression/integration testing on maintenance software (Ada/C++) for Patriot Missle System.
-* Produced in-house scripting and frontend tools (Python, Javascript, ASP, PHP) to improve development and testing efficiency of engineering teams.
-* Responsible for introducing DevSecOps and agile softwares (JIRA, Confluence, Collaborator, GitHub) and concepts to outdated engineering product groups.
+* Produced in-house scripting and frontend tools (Python, .NET, PHP, Perl) to improve development and testing efficiency of engineering teams.
+* Responsible for introducing DevSecOps and agile tools (JIRA, Jenkins, Collaborator, GitHub) and concepts to outdated engineering product groups.
 * <font color="red">Secret Clearance from U.S. Department of Defense</font>
 
 ### Delaware State University - Undergraduate Researcher
