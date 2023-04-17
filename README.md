@@ -35,7 +35,7 @@ Wireshark, VirtualBox, Eclipse, GitHub, Rational Clearcase, JIRA, Jenkins, Confl
 
 
 ## Relevant Experience
-### Raytheon Technologies - Software Engineer II (Patriot Tools Team, Patriot Mainteneance and Diagnostic Team)
+### Raytheon Technologies - Software Engineer II (Patriot Tools Team, Patriot Maintenance & Diag Team)
 #### Lawrence, Massachusetts, USA (May 2018 - Present)
 * Developed, facilitated the delivery of, and performed regression/integration testing on maintenance software (Ada/C++) for Patriot Missle System.
 * Produced in-house scripting and frontend tools (Python, .NET, PHP, Perl) to improve development and testing efficiency of engineering teams.
