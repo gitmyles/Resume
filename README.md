@@ -14,7 +14,7 @@ mjayegray@gmail.com | 302-670-9580
 
 
 ## Summary
-Creative and adaptable software engineer (5+ years of experience) offering proficiency in scripting and object-oriented programming, as well as strong teamwork and communication skills. Seeking new opportunities to utilize my skills towards creating meaniningful software.
+Creative and adaptable software engineer (with 5+ years of experience) offering proficiency in scripting and object-oriented programming, as well as strong teamwork and communication skills. Seeking new opportunities to utilize my skills towards creating meaniningful software.
 
 _Specific interests include: artificial intelligence, user interface design, music._
 
