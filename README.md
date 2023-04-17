@@ -1,7 +1,3 @@
-
-
-
-
 # Myles J. Johnson-Gray
 mjayegray@gmail.com | 302-670-9580
 
