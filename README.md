@@ -40,13 +40,13 @@ Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcas
 * Developed processes, scripts, and documentation for maintaining company financial data using Office365, Microsoft SharePoint, and Power Automate.
 * Produced in-house scripting and frontend tools (Python, .NET, PHP, Perl, VBS) to improve development and testing efficiency of engineering teams.
 * Responsible for introducing DevSecOps and agile tools (JIRA, Jenkins, Collaborator, GitHub) and concepts to outdated engineering product groups.
-* maintaining scheduler tool for PTFA lab testing  
+* Maintaining classic ASP.NET scheduler tool to support classified lab testing
 
 #### Patriot Maintenance & Diag Team (May 2018 - Dec 2020)
+* Developed, facilitated the delivery of, and performed regression/integration testing on maintenance software (Ada/C++) for Patriot Missle System.
 * test plans
-* squish unit testing
-* integration testing 
-* <font color="red">Secret Clearance from U.S. Department of Defense</font>
+* Automated GUI and unit testing in Froglogic Squish
+* Six Sigma work / certification
 
 
 ### Delaware State University - Undergraduate Researcher
