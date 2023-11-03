@@ -32,7 +32,7 @@ Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcas
 
 
 ## Relevant Experience
-### Raytheon Technologies - Software Engineer II (Patriot Tools Team)
+### RTX Corporation / Raytheon Technologies - Software Engineer II (Patriot Tools Team)
 #### Tewksbury, Massachusetts, USA
 * <font color="red">Secret Clearance from U.S. Department of Defense</font>
 
@@ -57,17 +57,16 @@ Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcas
 * Contributed in a lab research team: committed code to a code base, participated in lab meetings, and orally presented our work at several conferences.
 
 
-### Summer Research Intern
+### Summer Research Internships (redo all the sentences to include keywords)
 #### Clemson University, South Carolina, USA (May 2014 - July 2014)
 * Developed a graph ontology based system for keyword extraction of biomedical publications in Java. 
 * Prepared an oral and poster presentation for a local symposium.
 * Participated in a number of courses covering SSH, operating systems, and object-oriented programming fundamentals.
 
-
-### National Institute of Health - International Summer Research Intern
 #### Ningbo University, Ningbo, China (May 2012 - July 2012)
+* National Institute of Health - International Summer Research Intern
 * Participated in courses covering knowledge of various data mining techniques, including clustering, classification methods, and decision trees. 
-* Developed decision trees using data mining techniques to predict NBA player shot selections and results, based on a number of in-game critieria. 
+* Utilized knowledge from courses to develop decision trees in Python, using data mining techniques to predict NBA player shot selections and results, based on a number of in-game critieria. 
 * Prepared an oral and poster presentation of my work at a local symposium.
 
 
