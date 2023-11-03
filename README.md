@@ -37,8 +37,8 @@ Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcas
 * <font color="red">Secret Clearance from U.S. Department of Defense</font>
 
 #### Patriot Tools Team (Dec 2020 - Present)
-* Developed processes, scripts, and documentation for maintaining company financial data using Office365, Microsoft SharePoint, and Power Automate.
-* Produced in-house scripting and frontend tools (Python, .NET, PHP, Perl, VBS) to improve development and testing efficiency of engineering teams.
+* Developed processes, VBA scripts, and documentation for maintaining company financial data using Office365, Microsoft SharePoint, and Power Automate.
+* Produced in-house scripting and frontend tools (Python, .NET, PHP, Perl, VBScripts) to improve development and testing efficiency of engineering teams.
 * Responsible for introducing DevSecOps and agile tools (JIRA, Jenkins, Collaborator, GitHub) and concepts to outdated engineering product groups.
 * Maintaining classic ASP.NET scheduler tool to support classified lab testing
 
