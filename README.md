@@ -18,13 +18,13 @@ _Specific interests include: artificial intelligence, user interface design, mus
 
 ## Technical Skills
 ### Languages/Frameworks
-C++, Java, Python, HTML/Javascript, SQL, .NET.
+C++, Java, Python, HTML/CSS/Javascript, NodeJS, SQL, .NET.
 
 ### Mathematics
 Calculus, probability, statistics, trigonometry, discrete mathematics, linear algebra, and theory of computation. 
 
 ### Systems/Software:
-Wireshark, VirtualBox, Eclipse, GitHub, Rational Clearcase, JIRA, Jenkins, Confluence, Froglogic Squish, Office 365/SharePoint/Power Automate, SmartBear Collaborator, and OpenGL.
+Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcase, JIRA, Jenkins, Confluence, Froglogic Squish, Office 365/SharePoint/Power Automate, and SmartBear Collaborator.
 
 
 
@@ -32,12 +32,22 @@ Wireshark, VirtualBox, Eclipse, GitHub, Rational Clearcase, JIRA, Jenkins, Confl
 
 
 ## Relevant Experience
-### Raytheon Technologies - Software Engineer II (Patriot Tools Team, Patriot Maintenance & Diag Team)
-#### Lawrence, Massachusetts, USA (May 2018 - Present)
-* Developed, facilitated the delivery of, and performed regression/integration testing on maintenance software (Ada/C++) for Patriot Missle System.
-* Produced in-house scripting and frontend tools (Python, .NET, PHP, Perl) to improve development and testing efficiency of engineering teams.
-* Responsible for introducing DevSecOps and agile tools (JIRA, Jenkins, Collaborator, GitHub) and concepts to outdated engineering product groups.
+### Raytheon Technologies - Software Engineer II (Patriot Tools Team)
+#### Tewksbury, Massachusetts, USA
 * <font color="red">Secret Clearance from U.S. Department of Defense</font>
+
+#### Patriot Tools Team (Dec 2020 - Present)
+* Developed processes, scripts, and documentation for maintaining company financial data using Office365, Microsoft SharePoint, and Power Automate.
+* Produced in-house scripting and frontend tools (Python, .NET, PHP, Perl, VBS) to improve development and testing efficiency of engineering teams.
+* Responsible for introducing DevSecOps and agile tools (JIRA, Jenkins, Collaborator, GitHub) and concepts to outdated engineering product groups.
+* maintaining scheduler tool for PTFA lab testing  
+
+#### Patriot Maintenance & Diag Team (May 2018 - Dec 2020)
+* test plans
+* squish unit testing
+* integration testing 
+* <font color="red">Secret Clearance from U.S. Department of Defense</font>
+
 
 ### Delaware State University - Undergraduate Researcher
 #### Dover, Delaware, USA (Feb 2012 – May 2015)
@@ -47,17 +57,18 @@ Wireshark, VirtualBox, Eclipse, GitHub, Rational Clearcase, JIRA, Jenkins, Confl
 * Contributed in a lab research team: committed code to a code base, participated in lab meetings, and orally presented our work at several conferences.
 
 
-### National Institute of Health - International Summer Research Intern
-#### Ningbo University, Ningbo, China (May 2012 - July 2012)
-* Participated in courses covering knowledge of various data mining techniques, including clustering, classification methods, and decision trees. 
-* Developed decision trees, predicting several NBA player shot selections and results based on a number of in-game critieria. 
-* Prepared an oral and poster presentation of my work at a local symposium.
-
 ### Summer Research Intern
 #### Clemson University, South Carolina, USA (May 2014 - July 2014)
 * Developed a graph ontology based system for keyword extraction of biomedical publications in Java. 
 * Prepared an oral and poster presentation for a local symposium.
 * Participated in a number of courses covering SSH, operating systems, and object-oriented programming fundamentals.
+
+
+### National Institute of Health - International Summer Research Intern
+#### Ningbo University, Ningbo, China (May 2012 - July 2012)
+* Participated in courses covering knowledge of various data mining techniques, including clustering, classification methods, and decision trees. 
+* Developed decision trees using data mining techniques to predict NBA player shot selections and results, based on a number of in-game critieria. 
+* Prepared an oral and poster presentation of my work at a local symposium.
 
 
 
