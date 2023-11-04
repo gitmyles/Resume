@@ -32,7 +32,7 @@ Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcas
 
 
 ## Relevant Experience
-### RTX Corporation / Raytheon Technologies - Software Engineer II (Patriot Tools Team)
+### RTX Corporation / Raytheon Technologies - Software Engineer II
 #### Tewksbury, Massachusetts, USA
 * <font color="red">Secret Clearance from U.S. Department of Defense</font>
 * <font color="red">Six Sigma certification</font>
