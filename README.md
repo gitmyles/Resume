@@ -35,26 +35,25 @@ Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcas
 ### RTX Corporation / Raytheon Technologies - Software Engineer II (Patriot Tools Team)
 #### Tewksbury, Massachusetts, USA
 * <font color="red">Secret Clearance from U.S. Department of Defense</font>
+* <font color="red">Six Sigma certification</font>
 
 #### Patriot Tools Team (Dec 2020 - Present)
-* Developed processes, VBA scripts, and documentation for maintaining company financial data using Office365, Microsoft SharePoint, and Power Automate.
+* Developed VBA scripts, processes, and documentation for maintaining company financial data using Office365, Microsoft SharePoint, and Power Automate.
 * Produced in-house scripting and frontend tools (Python, .NET, PHP, Perl, VBScripts) to improve development and testing efficiency of engineering teams.
 * Responsible for introducing DevSecOps and agile tools (JIRA, Jenkins, Collaborator, GitHub) and concepts to outdated engineering product groups.
-* Maintaining classic ASP.NET scheduler tool to support classified lab testing
+* Maintained and developed enhancements for a classic ASP.NET scheduler tool to support classified lab testing functions.
 
 #### Patriot Maintenance & Diag Team (May 2018 - Dec 2020)
-* Developed, facilitated the delivery of, and performed regression/integration testing on maintenance software (Ada/C++) for Patriot Missle System.
-* test plans
-* Automated GUI and unit testing in Froglogic Squish
-* Six Sigma work / certification
+* Developed and facilitated the delivery of regression/integration testing on maintenance software (Ada/C++) for Patriot Missle System.
+* Developed, revised, and ran test plans for Patriot Missle System maintenance procedures in classified lab environments.
+* Developed automated GUI and unit testing of maintenance software using Froglogic Squish (Python) to lessen the need for manual regression tests.
 
 
 ### Delaware State University - Undergraduate Researcher
 #### Dover, Delaware, USA (Feb 2012 – May 2015)
 * Assisted in the software development of NeRvolver, a computational intelligence-based system (using evolutionary algorithms and fuzzy logic) for automated construction, analysis, and tuning of neuronal models. 
 * Implemented the NSGA-2 and END_VEGA algorithms in C++, and performed an empirical algorithm analysis on both algorithms applied to neuronal modeling. 
-* Implemented statistical functions for analysis of neuronal data.
-* Contributed in a lab research team: committed code to a code base, participated in lab meetings, and orally presented our work at several conferences.
+* Implemented statistical functions for analysis of neuronal data (SPSS).
 
 
 ### Summer Research Internships (redo all the sentences to include keywords)
