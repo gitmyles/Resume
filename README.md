@@ -61,8 +61,9 @@ Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcas
 
 ### Summer Research Internships
 #### Clemson University, South Carolina, USA (May 2014 - July 2014)
-* Developed a graph ontology based system for keyword extraction of biomedical publications (Java). Prepared an oral and poster presentation for a local symposium. 
+* Developed a graph ontology based system for keyword extraction of biomedical publications (Java).
 * Participated in a number of courses covering SSH, operating systems, and object-oriented programming fundamentals.
+* Prepared an oral and poster presentation for a local symposium. 
 
 #### Ningbo University, Ningbo, China (May 2012 - July 2012)
 * Participated in courses covering knowledge of various data mining techniques, including clustering, classification methods, and decision trees. 
