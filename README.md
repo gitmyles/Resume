@@ -21,10 +21,10 @@ _Specific interests: artificial intelligence, user interface design, music_
 C++, Java, Python, HTML/CSS/Javascript, NodeJS, SQL, .NET
 
 ### Mathematics
-Calculus, probability, statistics, trigonometry, discrete mathematics, linear algebra, and theory of computation
+Calculus, probability, statistics, trigonometry, discrete mathematics, linear algebra, theory of computation
 
 ### Systems/Software
-Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcase, JIRA, Jenkins, Confluence, Froglogic Squish, Office 365/SharePoint/Power Automate, and SmartBear Collaborator
+Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcase, JIRA, Jenkins, Confluence, Froglogic Squish, Office 365/SharePoint/Power Automate, SmartBear Collaborator
 
 
 
