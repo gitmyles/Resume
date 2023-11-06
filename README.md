@@ -48,7 +48,7 @@ Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcas
 #### Patriot Maintenance & Diag Team (May 2018 - Dec 2020)
 * Developed and facilitated the delivery of regression/integration testing on maintenance software (Ada/C++) for Patriot system.
 * Developed, revised, and ran test plans for Patriot system maintenance procedures in classified lab environments.
-* Developed automated GUI and unit testing of maintenance software using Froglogic Squish (Python) to lessen the need for manual regression tests.
+* Developed automated GUI and unit testing of maintenance software using Froglogic Squish (Python) to replace manual regression tests.
 
 
 ### Delaware State University - Undergraduate Researcher
