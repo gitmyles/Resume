@@ -23,7 +23,7 @@ C++, Java, Python, HTML/CSS/Javascript, NodeJS, SQL, .NET
 ### Mathematics
 Calculus, probability, statistics, trigonometry, discrete mathematics, linear algebra, and theory of computation
 
-### Systems/Software:
+### Systems/Software
 Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcase, JIRA, Jenkins, Confluence, Froglogic Squish, Office 365/SharePoint/Power Automate, and SmartBear Collaborator
 
 
