@@ -39,11 +39,11 @@ Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcas
 
 #### Patriot Tools Team (Dec 2020 - Present)
 * Developing VBA scripts, processes, and documentation for maintaining company financial data using Office365, Microsoft SharePoint, and Power Automate.
-* Producing in-house scripting and front-end tools (Python, .NET, PHP, Perl, VBScripts) to improve development and testing efficiency of engineering teams.
-* Responsible for introducing DevSecOps and agile tools (JIRA, Jenkins, Collaborator, GitHub) and concepts to outdated engineering product groups.
+* Producing in-house scripting and front-end tools (Python, .NET, PHP, Perl, VBScript) to improve development and testing efficiency of engineering teams.
+* Responsible for introducing DevSecOps and Agile tools (JIRA, Jenkins, Collaborator, GitHub) and concepts to outdated engineering product groups.
 * Maintaining and developing enhancements for a classic ASP.NET scheduler tool to support classified lab testing functions.
-* I think you should have something in there that covers your interactions with end users in developing requirements, receiving feedback, addressing bugs, etc (edited)
-can probably mention Agile in there as well - when you do mention Agile, title-case it
+* Coordinating with stakeholders in regards to developing requirements, receiving feedback, and addressing urgent issues bugs or bugs with Tools products.
+* can probably mention Agile in there as well - when you do mention Agile, title-case it
 
 #### Patriot Maintenance & Diag Team (May 2018 - Dec 2020)
 * Developed and facilitated the delivery of regression/integration testing on maintenance software (Ada/C++) for Patriot System.
