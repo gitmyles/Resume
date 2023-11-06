@@ -89,7 +89,7 @@ _Each bullet below contains a hyperlink mapping to the respective repository loc
 
 
 ## SPEAKING ENGAGEMENTS
-* Computational Neuroscience (CNS) Conference (Atlanta 2012, [Paris 2013](https://www.cnsorg.org/cns-2013-paris)) 
+* Computational Neuroscience (CNS) Conference ([Atlanta 2012](https://www.cnsorg.org/assets/CNS_Meetings/CNS2012/cns2012_color.pdf), [Paris 2013](https://www.cnsorg.org/cns-2013-paris)) 
 * Annual Biomedical Research Conference for Minority Students (ABRCMS) ([San Jose 2012](https://abrcms.org/images/Past_Programs/2012_ABRCMS_Final_Program.pdf), [Nashville 2013](https://abrcms.org/images/Past_Programs/Final_Program__Exhibit_Guide-_Website_Version.pdf), [San Antonio 2014](https://abrcms.org/images/Past_Programs/2014_ABRCMS_Final_Program.pdf)) 
 * Emerging Researchers National (ERN) Conference ([Washington D.C 2014](https://new.emerging-researchers.org/wp-content/uploads/2014/02/2014ERNUndergradPosterPresentationSchedule.pdf)) 
 
