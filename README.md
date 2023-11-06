@@ -74,7 +74,7 @@ _Each bullet below contains a hyperlink mapping to the respective repository loc
 * Constructed a [character prediction system](https://github.com/gitmyles/keyboard-prediction) using bigrams to generate predictions for a dynamic AAC keyboard.
 * Implemented shading, reflection/refraction, bump mapping, model loading, and flocking schemas in [graphics projects](https://github.com/gitmyles/graphics-triangles/blob/master/tutorial03.cpp) using OpenGL.
 * Created a [Perl program](https://github.com/gitmyles/genome-mutate-PAM) to simulate the mutation and alignment of amino acid sequences using a PAM matrix.
-* Built and tested a [decision tree](https://github.com/gitmyles/decision-tree) class on breast cancer data from University of Wisconsin Hospitals in Madison, WI.
+* Built and tested a [decision tree](https://github.com/gitmyles/decision-tree) class on breast cancer data obtained from University of Wisconsin Hospitals in Madison, WI.
 * Developed a [Forward Chaining Knowledge Base](https://github.com/gitmyles/forward-chaining-main-street-knowledge-base) of Restaurants for Main Street (Newark, Delaware).
 * Designed a [stock market QA system](https://github.com/gitmyles/stock-market-sentiment-analysis) using sentiment analysis.
 * Produced a system that uses Hidden Markov Models through [viterbi training](https://github.com/gitmyles/genome-viterbi-training/blob/master/viterbi.py) to find the most likely path for given genome sequences.
