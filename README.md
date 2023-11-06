@@ -43,7 +43,7 @@ Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcas
 * Responsible for introducing DevSecOps and Agile tools (JIRA, Jenkins, Collaborator, GitHub) and concepts to outdated engineering product groups.
 * Maintaining and developing enhancements for a classic ASP.NET scheduler tool to support classified lab testing functions.
 * Coordinating with stakeholders in regards to developing requirements, receiving feedback, and addressing urgent issues bugs or bugs with Tools products.
-* Completing trainings for and supporting Agile frameworks, methodologies, and practices within the Tools Patriot team.
+* Completing trainings for and supporting Agile frameworks, methodologies, and practices within the Patriot Tools team.
 
 #### Patriot Maintenance & Diag Team (May 2018 - Dec 2020)
 * Developed and facilitated the delivery of regression/integration testing on maintenance software (Ada/C++) for Patriot System.
