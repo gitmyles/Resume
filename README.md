@@ -24,7 +24,7 @@ C++, Java, Python, HTML/CSS/Javascript, NodeJS, SQL, VBScript, .NET
 Calculus, probability, statistics, trigonometry, discrete mathematics, linear algebra, theory of computation
 
 ### Systems/Software
-Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcase, JIRA, Jenkins, Confluence, Froglogic Squish, Office 365/SharePoint/Power Automate, SmartBear Collaborator
+Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcase, Jira, Jenkins, Confluence, Froglogic Squish, Office 365/SharePoint/Power Automate, SmartBear Collaborator
 
 
 
@@ -40,7 +40,7 @@ Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcas
 #### Patriot Tools Team (Dec 2020 - Present)
 * Developing VBA scripts, processes, and documentation for maintaining company financial data using Office365, Microsoft SharePoint, and Power Automate.
 * Producing in-house scripting and front-end tools (Python, .NET, PHP, Perl, VBScript) to improve development and testing efficiency of engineering teams.
-* Responsible for introducing DevSecOps, CI/CD, and Agile tools (JIRA, Jenkins, Collaborator, GitHub) and concepts to outdated engineering product groups.
+* Responsible for introducing DevSecOps, CI/CD, and Agile tools (Jira, Jenkins, Collaborator, GitHub) and concepts to outdated engineering product groups.
 * Maintaining and developing enhancements for a classic ASP.NET scheduler tool to support classified lab testing functions.
 * Coordinating with stakeholders to develop requirements, receive feedback, and address urgent issues or bugs with Tools products.
 * Completing trainings for and supporting Agile frameworks, methodologies, and practices within the Patriot Tools team.
