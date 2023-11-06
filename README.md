@@ -13,12 +13,12 @@ mjayegray@gmail.com | 302-670-9580
 ## Summary
 Creative and adaptable software engineer (with 5+ years of experience) offering proficiency in scripting and object-oriented programming, as well as strong teamwork and communication skills. Seeking new opportunities to utilize my skills towards creating meaniningful software.
 
-_Specific interests: artificial intelligence, user interface design, music_
+_Specific interests: artificial intelligence, UI/UX, music_
 
 
 ## Technical Skills
 ### Languages/Frameworks
-C++, Java, Python, HTML/CSS/Javascript, NodeJS, SQL, .NET
+C++, Java, Python, HTML/CSS/Javascript, NodeJS, SQL, VBScript, .NET
 
 ### Mathematics
 Calculus, probability, statistics, trigonometry, discrete mathematics, linear algebra, theory of computation
@@ -32,20 +32,22 @@ Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcas
 
 
 ## Relevant Experience
-### RTX Corporation / Raytheon Technologies - Software Engineer II
+### RTX Corporation - Software Engineer II
 #### Tewksbury, Massachusetts, USA
 * <font color="red">Secret Clearance from U.S. Department of Defense</font>
-* <font color="red">Six Sigma certification</font>
+* <font color="red">Six Sigma - Green Belt certification</font>
 
 #### Patriot Tools Team (Dec 2020 - Present)
-* Developed VBA scripts, processes, and documentation for maintaining company financial data using Office365, Microsoft SharePoint, and Power Automate.
-* Produced in-house scripting and frontend tools (Python, .NET, PHP, Perl, VBScripts) to improve development and testing efficiency of engineering teams.
+* Developing VBA scripts, processes, and documentation for maintaining company financial data using Office365, Microsoft SharePoint, and Power Automate.
+* Producing in-house scripting and front-end tools (Python, .NET, PHP, Perl, VBScripts) to improve development and testing efficiency of engineering teams.
 * Responsible for introducing DevSecOps and agile tools (JIRA, Jenkins, Collaborator, GitHub) and concepts to outdated engineering product groups.
-* Maintained and developed enhancements for a classic ASP.NET scheduler tool to support classified lab testing functions.
+* Maintaining and developing enhancements for a classic ASP.NET scheduler tool to support classified lab testing functions.
+* I think you should have something in there that covers your interactions with end users in developing requirements, receiving feedback, addressing bugs, etc (edited)
+can probably mention Agile in there as well - when you do mention Agile, title-case it
 
 #### Patriot Maintenance & Diag Team (May 2018 - Dec 2020)
-* Developed and facilitated the delivery of regression/integration testing on maintenance software (Ada/C++) for Patriot Missle System.
-* Developed, revised, and ran test plans for Patriot Missle System maintenance procedures in classified lab environments.
+* Developed and facilitated the delivery of regression/integration testing on maintenance software (Ada/C++) for Patriot System.
+* Developed, revised, and ran test plans for Patriot System maintenance procedures in classified lab environments.
 * Developed automated GUI and unit testing of maintenance software using Froglogic Squish (Python) to lessen the need for manual regression tests.
 
 
