@@ -71,7 +71,7 @@ _National Institute of Health sponsored internship opportunity._
 * Utilized knowledge from courses to develop and compare information gain based decision trees (Python), to predict NBA player shot selections and results based on a number of in-game critieria. 
 
 ## [Github Repositories](https://github.com/gitmyles?tab=repositories)
-_Each bullet below contains a hyperlink mapping to the respective repository location._
+ _Each bullet below contains a hyperlink mapping to the respective repository location._
 * Constructed a [character prediction system](https://github.com/gitmyles/keyboard-prediction) using bigrams to generate predictions for a dynamic AAC keyboard.
 * Implemented shading, reflection/refraction, bump mapping, model loading, and flocking schemas in [graphics projects](https://github.com/gitmyles/graphics-triangles/blob/master/tutorial03.cpp) using OpenGL.
 * Created a [Perl program](https://github.com/gitmyles/genome-mutate-PAM) to simulate the mutation and alignment of amino acid sequences using a PAM matrix.
