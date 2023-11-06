@@ -52,22 +52,20 @@ Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcas
 ### Delaware State University - Undergraduate Researcher
 #### Dover, Delaware, USA (Feb 2012 – May 2015)
 * Assisted in the software development of NeRvolver, a computational intelligence-based system (using evolutionary algorithms and fuzzy logic) for automated construction, analysis, and tuning of neuronal models. 
-* Implemented the NSGA-2 and END_VEGA algorithms in C++, and performed an empirical algorithm analysis on both algorithms applied to neuronal modeling. 
+* Implemented NSGA-2 and END_VEGA evolutionary algorithms in C++, and performed an empirical algorithm analysis on both algorithms applied to the topic of neuronal modeling. 
 * Implemented statistical functions for analysis of neuronal data (SPSS).
+* Prepared oral and poster presentations for a national and international symposums and conferences. 
 
 
-### Summer Research Internships (redo all the sentences to include keywords)
+### Summer Research Internships
 #### Clemson University, South Carolina, USA (May 2014 - July 2014)
-* Developed a graph ontology based system for keyword extraction of biomedical publications in Java. 
-* Prepared an oral and poster presentation for a local symposium.
+* Developed a graph ontology based system for keyword extraction of biomedical publications (Java). Prepared an oral and poster presentation for a local symposium. 
 * Participated in a number of courses covering SSH, operating systems, and object-oriented programming fundamentals.
 
 #### Ningbo University, Ningbo, China (May 2012 - July 2012)
 * National Institute of Health - International Summer Research Intern
 * Participated in courses covering knowledge of various data mining techniques, including clustering, classification methods, and decision trees. 
-* Utilized knowledge from courses to develop decision trees in Python, using data mining techniques to predict NBA player shot selections and results, based on a number of in-game critieria. 
-* Prepared an oral and poster presentation of my work at a local symposium.
-
+* Utilized knowledge from courses to develop and compare information gain based decision trees (Python), to predict NBA player shot selections and results based on a number of in-game critieria. 
 
 
 ## [Github Repositories](https://github.com/gitmyles?tab=repositories)
