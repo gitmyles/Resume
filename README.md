@@ -2,10 +2,10 @@
 mjayegray@gmail.com | 302-670-9580
 
 ## Education
-* University of Delaware (Aug 2015-May 2017)
+* University of Delaware (Aug 2015 - May 2017)
     * Master of Science in Computer Science
     * GPA: 3.2
-* Delaware State University (Aug 2011-May 2015)
+* Delaware State University (Aug 2011 - May 2015)
     * Bachelor of Science in Computer Science; Magna Cum Laude
     * GPA: 3.5
 
