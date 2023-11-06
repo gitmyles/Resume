@@ -13,18 +13,18 @@ mjayegray@gmail.com | 302-670-9580
 ## Summary
 Creative and adaptable software engineer (with 5+ years of experience) offering proficiency in scripting and object-oriented programming, as well as strong teamwork and communication skills. Seeking new opportunities to utilize my skills towards creating meaniningful software.
 
-_Specific interests: artificial intelligence, user interface design, music._
+_Specific interests: artificial intelligence, user interface design, music_
 
 
 ## Technical Skills
 ### Languages/Frameworks
-C++, Java, Python, HTML/CSS/Javascript, NodeJS, SQL, .NET.
+C++, Java, Python, HTML/CSS/Javascript, NodeJS, SQL, .NET
 
 ### Mathematics
-Calculus, probability, statistics, trigonometry, discrete mathematics, linear algebra, and theory of computation. 
+Calculus, probability, statistics, trigonometry, discrete mathematics, linear algebra, and theory of computation
 
 ### Systems/Software:
-Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcase, JIRA, Jenkins, Confluence, Froglogic Squish, Office 365/SharePoint/Power Automate, and SmartBear Collaborator.
+Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcase, JIRA, Jenkins, Confluence, Froglogic Squish, Office 365/SharePoint/Power Automate, and SmartBear Collaborator
 
 
 
