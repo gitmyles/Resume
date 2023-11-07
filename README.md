@@ -57,7 +57,7 @@ Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcas
 * Assisted in the software development of NeRvolver, a computational intelligence-based system (using evolutionary algorithms and fuzzy logic) for automated construction, analysis, and tuning of neuronal models. 
 * Implemented NSGA-2 and END_VEGA evolutionary algorithms in C++, and performed an empirical algorithm analysis applied to neuronal modeling. 
 * Implemented statistical functions for analysis of neuronal data (SPSS).
-* Prepared oral and poster presentations for national and international symposium and conferences. 
+* Prepared oral and poster presentations for national and international symposiums and conferences. 
 
 
 ### Summer Research Internships
