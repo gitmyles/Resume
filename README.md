@@ -46,7 +46,7 @@ Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcas
 * Completing trainings for and supporting Agile frameworks, methodologies, and practices within the Patriot Tools team.
 
 #### Patriot Maintenance & Diag Team (May 2018 - Dec 2020)
-* Developed and facilitated the delivery of maintenance/diagnostic software (Ada/C++) for the Patriot system.
+* Implemented and facilitated the delivery of maintenance/diagnostic software (Ada/C++) for the Patriot system.
 * Performed regression/integration testing with classified hardware for scheduled releases.
 * Developed, revised, and ran test plans for Patriot system maintenance procedures in classified lab environments.
 * Developed automated GUI and unit testing for maintenance software, using Froglogic Squish (Python) to replace manual regression tests.
