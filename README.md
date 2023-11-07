@@ -11,9 +11,9 @@ mjayegray@gmail.com | 302-670-9580
 
 
 ## Summary
-Creative and adaptable software engineer (with 5+ years of experience) offering proficiency in scripting and object-oriented programming, as well as strong teamwork and communication skills. Seeking new opportunities to utilize my skills towards creating meaniningful software.
+Creative and adaptable software engineer (with 5+ years of experience) offering proficiency in scripting and object-oriented programming, as well as strong teamwork and communication skills. Seeking new opportunities to utilize my skills towards creating meaningful software.
 
-_Specific interests: Artificial intelligence, UI/UX, music_
+_Specific interests: Artificial Intelligence, UI/UX, music_
 
 
 ## Technical Skills
@@ -47,7 +47,7 @@ Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcas
 
 #### Patriot Maintenance & Diag Team (May 2018 - Dec 2020)
 * Implemented and facilitated the delivery of maintenance/diagnostic software (Ada/C++) for the Patriot system.
-* Performed regression/integration testing with classified hardware for scheduled releases.
+* Performed integration and regression testing with classified hardware for scheduled releases.
 * Produced, revised, and ran test plans for Patriot system maintenance procedures in classified lab environments.
 * Developed automated GUI and unit testing for maintenance software, using Froglogic Squish (Python) to replace manual regression tests.
 
@@ -55,9 +55,9 @@ Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcas
 ### Delaware State University - Undergraduate Researcher
 #### Dover, Delaware, USA (Feb 2012 – May 2015)
 * Assisted in the software development of NeRvolver, a computational intelligence-based system (using evolutionary algorithms and fuzzy logic) for automated construction, analysis, and tuning of neuronal models. 
-* Implemented NSGA-2 and END_VEGA evolutionary algorithms in C++, and performed an empirical algorithm analysis on both algorithms applied to the topic of neuronal modeling. 
+* Implemented NSGA-2 and END_VEGA evolutionary algorithms in C++, and performed an empirical algorithm analysis applied to neuronal modeling. 
 * Implemented statistical functions for analysis of neuronal data (SPSS).
-* Prepared oral and poster presentations for a national and international symposums and conferences. 
+* Prepared oral and poster presentations for national and international symposums and conferences. 
 
 
 ### Summer Research Internships
