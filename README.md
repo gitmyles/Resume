@@ -35,7 +35,7 @@ Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcas
 ### RTX Corporation - Software Engineer II
 #### Tewksbury, Massachusetts, USA
 * <font color="red">Secret Clearance from U.S. Department of Defense</font>
-* <font color="red">Six Sigma - Green Belt certification</font>
+* <font color="red">Six Sigma Specialist - Green Belt certification</font>
 
 #### Patriot Tools Team (Dec 2020 - Present)
 * Developing VBA scripts, processes, and documentation for maintaining company financial data using Office365, Microsoft SharePoint, and Power Automate.
