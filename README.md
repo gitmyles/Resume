@@ -11,20 +11,20 @@ mjayegray@gmail.com | 302-670-9580
 
 
 ## Summary
-Creative and adaptable software engineer (with 5+ years of experience) offering proficiency in scripting and object-oriented programming, as well as strong teamwork and communication skills. Seeking new opportunities to utilize my skills towards creating meaningful software.
+Creative and adaptable software engineer (with 7+ years of experience) offering proficiency in scripting, object-oriented programming and embedded systems, as well as strong teamwork and communication skills. Seeking new opportunities to utilize my skills towards creating meaningful software.
 
-_Specific interests: Artificial Intelligence, UI/UX, music_
+_Specific interests: Artificial Intelligence, Embedded Systems, UI/UX, Music_
 
 
 ## Technical Skills
 ### Languages/Frameworks
-C++, Java, Python, HTML/CSS/Javascript, NodeJS, SQL, VBScript, .NET
+C++, Java, Ada, Python, Perl, HTML/CSS/Javascript, NodeJS, SQL, VBScript, .NET
 
 ### Mathematics
 Calculus, probability, statistics, trigonometry, discrete mathematics, linear algebra, theory of computation
 
 ### Systems/Software
-Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcase, Jira, Jenkins, Confluence, Froglogic Squish, Office 365/SharePoint/Power Automate, SmartBear Collaborator
+Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, GitLab, Rational Clearcase, Jira, Jenkins, Confluence, Froglogic Squish, Office 365/SharePoint/Power Automate, SmartBear Collaborator
 
 
 
@@ -40,7 +40,7 @@ Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, Rational Clearcas
 #### Patriot Tools Team (Dec 2020 - Present)
 * Developing VBA scripts, processes, and documentation for maintaining company financial data using Office365, Microsoft SharePoint, and Power Automate.
 * Producing in-house scripting and front-end tools (Python, .NET, PHP, Perl, VBScript) to improve development and testing efficiency of engineering teams.
-* Responsible for introducing DevSecOps, CI/CD, and Agile tools (Jira, Jenkins, Collaborator, GitHub) and concepts to outdated engineering product groups.
+* Scrum Master responsibilities: responsible for introducing DevSecOps, CI/CD, and Agile tools and concepts to engineering product groups. Responsible for managing product backlogs.
 * Maintaining and developing enhancements for a classic ASP.NET scheduler tool to support classified lab testing functions.
 * Coordinating with stakeholders to develop requirements, receive feedback, and address urgent issues or bugs with Tools products.
 * Completing training courses supporting Agile frameworks, methodologies, and practices within the Patriot Tools team.
