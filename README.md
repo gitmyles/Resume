@@ -18,7 +18,7 @@ _Specific interests: Artificial Intelligence, Embedded Systems, UI/UX, Music_
 
 ## Technical Skills
 ### Languages/Frameworks
-C++, Java, Ada, Python, Perl, HTML/CSS/Javascript, NodeJS, SQL, VBScript, .NET
+C++, Java, Ada, Python, Perl, PHP, HTML/CSS/Javascript, NodeJS, SQL, VBScript, .NET
 
 ### Mathematics
 Calculus, probability, statistics, trigonometry, discrete mathematics, linear algebra, theory of computation
