@@ -32,7 +32,7 @@ Wireshark, VirtualBox, Docker, Eclipse, Visual Studio, GitHub, GitLab, Rational 
 
 
 ## Relevant Experience
-### Raytheon Technologies - Software Engineer II
+### RTX Corporation - Software Engineer II
 #### Tewksbury, Massachusetts, USA
 * <font color="red">Secret Clearance from U.S. Department of Defense</font>
 * <font color="red">Six Sigma Specialist - Green Belt certification</font>
